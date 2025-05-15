@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 I love curry
+=======
+<<<<<<< HEAD
+I love apples 
+=======
+I love bannanas 
+>>>>>>> b
+>>>>>>> main
